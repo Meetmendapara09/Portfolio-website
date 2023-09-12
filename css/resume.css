@@ -8,11 +8,6 @@ body {
   padding-top: 54px;
   color: #868e96; }
 
-@media (max-width: 768px) {
-  /* Styles for screens smaller than 768px */
-}
-
-
 @media (min-width: 992px) {
   body {
     padding-top: 0;
