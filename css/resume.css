@@ -85,19 +85,6 @@ h2 {
           #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
             display: block; } }
 
-/* Inside your existing media query for smaller screens */
-@media (max-width: 768px) {
-  h1 {
-    font-size: 4rem;
-    line-height: 3.5rem;
-  }
-  h2 {
-    font-size: 2.5rem;
-  }
-  /* Add similar adjustments for other headings and text as needed */
-}
-
-
 section.resume-section {
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
